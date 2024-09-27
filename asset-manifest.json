@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-zorrilla-navbar/static/css/main.1af0a34b.css",
+    "main.js": "/ws101-zorrilla-navbar/static/js/main.e770e767.js",
+    "index.html": "/ws101-zorrilla-navbar/index.html",
+    "main.1af0a34b.css.map": "/ws101-zorrilla-navbar/static/css/main.1af0a34b.css.map",
+    "main.e770e767.js.map": "/ws101-zorrilla-navbar/static/js/main.e770e767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af0a34b.css",
+    "static/js/main.e770e767.js"
+  ]
+}
